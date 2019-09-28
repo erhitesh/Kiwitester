@@ -1,0 +1,8 @@
+.DS_Store
+TopfanResults/*
+TestRepository/testNG-xml/*
+test-output/*
+target/*
+GenvideoResults/*
+PlantsmapResults/*
+/target/
